@@ -1,0 +1,23 @@
+	ul {
+		margin-left: auto;
+	}
+	
+	body {
+		margin: 0px 0px;
+		padding: 0px 0px;
+	}
+	
+	.testimonials {
+		padding-top: 2%;
+		text-align: center;
+	}
+	
+	.carosel {
+		padding-top: 2%;
+		text-align: center;
+	}
+	
+	.color {
+		color: aqua;
+	}
+	
